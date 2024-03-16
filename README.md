@@ -1,3 +1,1 @@
-Lib/
-Scripts/
-Share/
+
