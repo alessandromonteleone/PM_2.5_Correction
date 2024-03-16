@@ -1,0 +1,12 @@
+
+*.csv
+data/README.txt
+*.png
+*.pth
+note.txt
+notebook/
+results/
+Leonardo/
+imgs/
+*.pyc
+*.json
